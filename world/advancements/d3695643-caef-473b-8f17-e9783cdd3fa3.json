@@ -315,6 +315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2019-04-06 15:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-04-05 19:15:22 +0000"
@@ -402,6 +408,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2019-04-05 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2019-04-06 15:57:42 +0000"
     },
     "done": true
   },
@@ -509,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2019-04-06 15:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2019-04-05 17:02:22 +0000"
@@ -605,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2019-04-06 15:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-04-05 19:15:22 +0000"
@@ -615,7 +639,8 @@
     "criteria": {
       "minecraft:skeleton": "2019-04-05 17:00:12 +0000",
       "minecraft:spider": "2019-04-05 18:08:51 +0000",
-      "minecraft:zombie": "2019-04-05 17:29:07 +0000"
+      "minecraft:zombie": "2019-04-05 17:29:07 +0000",
+      "minecraft:drowned": "2019-04-06 15:57:58 +0000"
     },
     "done": false
   },
@@ -766,6 +791,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2019-04-05 18:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2019-04-06 15:57:42 +0000"
     },
     "done": true
   },
@@ -997,6 +1028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2019-04-06 15:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2019-04-05 18:00:30 +0000"
@@ -1036,6 +1073,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2019-04-06 15:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2019-04-06 15:57:42 +0000"
     },
     "done": true
   },
@@ -1228,6 +1271,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2019-04-05 17:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2019-04-06 15:57:42 +0000"
     },
     "done": true
   },

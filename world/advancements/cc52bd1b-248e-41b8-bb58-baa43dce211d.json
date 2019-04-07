@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2019-04-06 16:48:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2019-04-06 11:36:13 +0000"
@@ -918,6 +924,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2019-04-06 16:37:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2019-04-06 12:45:59 +0000"
@@ -1092,6 +1104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2019-04-06 16:48:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2019-04-06 06:59:05 +0000"
@@ -1260,6 +1278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2019-04-06 16:48:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2019-04-06 07:06:01 +0000"
@@ -1390,8 +1414,8 @@
       "minecraft:deep_lukewarm_ocean": "2019-04-06 11:23:12 +0000",
       "minecraft:beach": "2019-04-06 11:19:03 +0000",
       "minecraft:dark_forest": "2019-04-06 07:53:39 +0000",
-      "minecraft:lukewarm_ocean": "2019-04-06 11:19:05 +0000",
       "minecraft:river": "2019-04-06 06:57:42 +0000",
+      "minecraft:lukewarm_ocean": "2019-04-06 11:19:05 +0000",
       "minecraft:birch_forest_hills": "2019-04-06 06:57:44 +0000",
       "minecraft:wooded_hills": "2019-04-06 06:54:09 +0000",
       "minecraft:swamp": "2019-04-06 11:17:09 +0000",
@@ -1445,6 +1469,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2019-04-06 12:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2019-04-06 16:48:00 +0000"
     },
     "done": true
   },
