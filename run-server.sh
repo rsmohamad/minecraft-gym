@@ -1,3 +1,3 @@
 #!/bin/sh
 
-java -Xmx3G -d64 -jar server.jar nogui
+java -Xmx768M -d64 -jar server.jar nogui
