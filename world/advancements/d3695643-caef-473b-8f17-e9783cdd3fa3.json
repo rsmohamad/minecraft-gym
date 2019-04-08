@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_at_least_9_redstone": "2019-04-07 12:08:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2019-04-05 17:45:01 +0000"
@@ -209,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-04-07 12:22:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2019-04-05 17:01:57 +0000"
@@ -261,6 +273,7 @@
     "criteria": {
       "cooked_mutton": "2019-04-06 14:23:26 +0000",
       "cooked_beef": "2019-04-06 15:05:30 +0000",
+      "porkchop": "2019-04-07 11:55:04 +0000",
       "potato": "2019-04-06 13:53:51 +0000",
       "bread": "2019-04-05 17:50:54 +0000",
       "cooked_salmon": "2019-04-05 17:09:31 +0000"
@@ -339,13 +352,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-04-05 18:50:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-04-05 18:50:48 +0000"
     },
@@ -458,6 +471,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-04-05 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2019-04-07 12:04:14 +0000"
     },
     "done": true
   },
@@ -665,6 +684,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2019-04-05 17:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2019-04-07 12:08:01 +0000"
     },
     "done": true
   },
@@ -893,6 +918,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2019-04-05 19:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2019-04-07 11:57:30 +0000"
     },
     "done": true
   },
