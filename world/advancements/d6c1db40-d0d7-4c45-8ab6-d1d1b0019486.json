@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-04-11 14:36:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-04-05 17:29:15 +0000"
@@ -347,9 +353,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-04-11 14:36:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2019-04-05 19:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2019-04-12 09:12:44 +0000"
     },
     "done": true
   },
@@ -419,6 +437,7 @@
       "cooked_cod": "2019-04-06 11:18:11 +0000",
       "bread": "2019-04-05 18:39:34 +0000",
       "salmon": "2019-04-06 08:46:52 +0000",
+      "beetroot": "2019-04-12 09:12:49 +0000",
       "cooked_chicken": "2019-04-06 08:31:00 +0000",
       "cooked_salmon": "2019-04-05 18:17:21 +0000",
       "carrot": "2019-04-06 14:54:19 +0000"
@@ -730,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2019-04-12 09:12:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-04-05 20:15:03 +0000"
@@ -826,6 +851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2019-04-11 14:36:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2019-04-05 17:37:36 +0000"
@@ -919,6 +950,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2019-04-05 17:56:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2019-04-11 06:46:36 +0000"
     },
     "done": true
   },
@@ -1051,6 +1088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_at_least_9_packed_ice": "2019-04-11 11:37:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2019-04-06 14:01:29 +0000"
@@ -1159,9 +1202,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2019-04-11 11:38:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-04-05 17:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2019-04-09 08:03:45 +0000"
     },
     "done": true
   },
@@ -1225,6 +1280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2019-04-11 14:36:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2019-04-06 07:22:57 +0000"
@@ -1270,6 +1331,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-04-05 18:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2019-04-12 09:10:33 +0000"
     },
     "done": true
   },
@@ -1804,6 +1871,8 @@
       "minecraft:taiga": "2019-04-06 13:34:51 +0000",
       "minecraft:deep_cold_ocean": "2019-04-06 09:48:31 +0000",
       "minecraft:snowy_tundra": "2019-04-06 11:17:46 +0000",
+      "minecraft:taiga_hills": "2019-04-11 11:33:42 +0000",
+      "minecraft:desert": "2019-04-12 09:10:53 +0000",
       "minecraft:frozen_river": "2019-04-06 11:18:06 +0000",
       "minecraft:birch_forest": "2019-04-05 17:39:01 +0000",
       "minecraft:snowy_beach": "2019-04-06 11:13:12 +0000",
@@ -1856,6 +1925,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2019-04-06 14:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2019-04-11 11:38:34 +0000"
     },
     "done": true
   },

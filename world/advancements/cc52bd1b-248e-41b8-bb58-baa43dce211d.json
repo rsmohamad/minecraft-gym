@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2019-04-11 14:28:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2019-04-06 07:06:01 +0000"
@@ -299,9 +305,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-04-09 07:12:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2019-04-06 10:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2019-04-08 13:14:19 +0000"
     },
     "done": true
   },
@@ -314,6 +332,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-04-06 13:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2019-04-08 13:15:51 +0000"
     },
     "done": true
   },
@@ -337,7 +361,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2019-04-08 12:42:25 +0000",
       "potato": "2019-04-06 07:49:10 +0000",
+      "cooked_cod": "2019-04-12 09:58:40 +0000",
       "bread": "2019-04-06 07:11:46 +0000",
       "cooked_chicken": "2019-04-06 13:39:13 +0000",
       "cooked_salmon": "2019-04-06 11:22:24 +0000",
@@ -369,9 +395,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-04-08 13:40:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2019-04-06 07:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2019-04-10 04:04:04 +0000"
     },
     "done": true
   },
@@ -417,13 +455,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-04-06 07:02:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-04-06 07:02:13 +0000"
     },
@@ -489,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2019-04-11 14:28:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2019-04-06 12:54:14 +0000"
@@ -504,6 +548,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2019-04-06 07:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2019-04-11 14:28:40 +0000"
     },
     "done": true
   },
@@ -716,6 +766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2019-04-11 14:28:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2019-04-06 12:54:14 +0000"
@@ -725,6 +781,18 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2019-04-06 07:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2019-04-08 13:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2019-04-12 06:18:23 +0000"
     },
     "done": true
   },
@@ -776,6 +844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2019-04-08 13:15:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-04-06 12:54:14 +0000"
@@ -784,6 +858,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2019-04-08 13:16:12 +0000",
       "minecraft:enderman": "2019-04-06 11:08:12 +0000",
       "minecraft:spider": "2019-04-06 11:07:43 +0000",
       "minecraft:zombie": "2019-04-06 07:47:17 +0000",
@@ -812,6 +887,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2019-04-06 07:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-04-09 12:16:12 +0000"
     },
     "done": true
   },
@@ -1044,6 +1125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-04-11 14:28:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
     "criteria": {
       "has_lapis": "2019-04-06 07:29:35 +0000"
@@ -1107,6 +1194,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2019-04-06 16:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-04-11 14:28:40 +0000"
     },
     "done": true
   },
@@ -1188,9 +1281,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2019-04-10 03:42:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2019-04-06 11:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2019-04-11 14:38:23 +0000"
     },
     "done": true
   },
@@ -1215,6 +1320,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-04-06 11:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-04-11 14:28:40 +0000"
     },
     "done": true
   },
@@ -1344,6 +1455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-04-08 12:48:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2019-04-06 07:47:17 +0000"
@@ -1414,8 +1531,8 @@
       "minecraft:deep_lukewarm_ocean": "2019-04-06 11:23:12 +0000",
       "minecraft:beach": "2019-04-06 11:19:03 +0000",
       "minecraft:dark_forest": "2019-04-06 07:53:39 +0000",
-      "minecraft:river": "2019-04-06 06:57:42 +0000",
       "minecraft:lukewarm_ocean": "2019-04-06 11:19:05 +0000",
+      "minecraft:river": "2019-04-06 06:57:42 +0000",
       "minecraft:birch_forest_hills": "2019-04-06 06:57:44 +0000",
       "minecraft:wooded_hills": "2019-04-06 06:54:09 +0000",
       "minecraft:swamp": "2019-04-06 11:17:09 +0000",
@@ -1436,9 +1553,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2019-04-12 06:23:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-04-06 06:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2019-04-08 13:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2019-04-08 13:20:50 +0000"
     },
     "done": true
   },
@@ -1457,6 +1592,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2019-04-06 06:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2019-04-11 14:39:37 +0000"
     },
     "done": true
   },
@@ -1649,6 +1790,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-04-06 13:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2019-04-11 14:28:40 +0000"
     },
     "done": true
   },

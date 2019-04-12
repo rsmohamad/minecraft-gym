@@ -1307,9 +1307,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-04-05 16:21:28 +0000",
       "minecraft:mountains": "2019-04-05 18:04:00 +0000",
+      "minecraft:forest": "2019-04-05 16:21:28 +0000",
+      "minecraft:taiga": "2019-04-12 07:59:04 +0000",
+      "minecraft:desert": "2019-04-12 08:01:14 +0000",
       "minecraft:birch_forest": "2019-04-05 17:42:54 +0000",
+      "minecraft:warm_ocean": "2019-04-12 08:02:07 +0000",
+      "minecraft:beach": "2019-04-12 07:55:49 +0000",
       "minecraft:dark_forest": "2019-04-05 17:57:13 +0000",
       "minecraft:river": "2019-04-05 17:02:18 +0000",
       "minecraft:birch_forest_hills": "2019-04-05 17:02:56 +0000",

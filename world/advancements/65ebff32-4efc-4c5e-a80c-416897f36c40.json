@@ -519,6 +519,14 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2019-04-12 08:17:30 +0000",
+      "minecraft:chicken": "2019-04-12 07:55:59 +0000",
+      "minecraft:sheep": "2019-04-12 08:06:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2019-04-05 18:07:44 +0000"
@@ -645,6 +653,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2019-04-05 18:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2019-04-12 07:58:26 +0000"
     },
     "done": true
   },
@@ -816,7 +830,8 @@
       "minecraft:ghast": "2019-04-06 08:48:49 +0000",
       "minecraft:spider": "2019-04-06 09:25:42 +0000",
       "minecraft:zombie": "2019-04-05 17:54:01 +0000",
-      "minecraft:drowned": "2019-04-05 18:10:56 +0000"
+      "minecraft:drowned": "2019-04-05 18:10:56 +0000",
+      "minecraft:evoker": "2019-04-12 08:10:09 +0000"
     },
     "done": false
   },
@@ -1464,11 +1479,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2019-04-06 09:05:27 +0000",
       "minecraft:forest": "2019-04-05 17:44:28 +0000",
+      "minecraft:mountains": "2019-04-06 09:05:27 +0000",
       "minecraft:taiga": "2019-04-06 09:02:18 +0000",
+      "minecraft:deep_cold_ocean": "2019-04-12 08:15:43 +0000",
       "minecraft:taiga_hills": "2019-04-06 09:04:45 +0000",
       "minecraft:birch_forest": "2019-04-05 17:46:11 +0000",
+      "minecraft:beach": "2019-04-12 08:11:46 +0000",
       "minecraft:dark_forest": "2019-04-05 17:46:01 +0000",
       "minecraft:river": "2019-04-05 17:46:05 +0000",
       "minecraft:birch_forest_hills": "2019-04-05 17:46:23 +0000",
@@ -1622,6 +1639,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2019-04-12 07:55:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2019-04-05 18:20:31 +0000"
@@ -1673,6 +1696,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-04-05 19:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2019-04-12 07:53:39 +0000"
     },
     "done": true
   },
