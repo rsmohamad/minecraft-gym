@@ -701,13 +701,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-04-06 13:01:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-04-06 13:01:47 +0000"
     },
@@ -840,6 +840,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-04-05 17:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2019-04-15 07:40:15 +0000"
     },
     "done": true
   },
@@ -1310,6 +1316,7 @@
       "minecraft:mountains": "2019-04-05 18:04:00 +0000",
       "minecraft:forest": "2019-04-05 16:21:28 +0000",
       "minecraft:taiga": "2019-04-12 07:59:04 +0000",
+      "minecraft:deep_cold_ocean": "2019-04-15 06:48:11 +0000",
       "minecraft:desert": "2019-04-12 08:01:14 +0000",
       "minecraft:birch_forest": "2019-04-05 17:42:54 +0000",
       "minecraft:warm_ocean": "2019-04-12 08:02:07 +0000",
@@ -1518,6 +1525,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-04-05 18:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2019-04-15 06:42:38 +0000"
     },
     "done": true
   },

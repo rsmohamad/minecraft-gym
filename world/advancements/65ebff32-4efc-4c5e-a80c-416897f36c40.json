@@ -375,6 +375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_the_recipe": "2019-04-14 10:17:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2019-04-05 18:07:44 +0000"
@@ -530,6 +536,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2019-04-05 18:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2019-04-14 10:10:12 +0000"
     },
     "done": true
   },
@@ -1045,6 +1057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2019-04-14 10:10:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2019-04-05 17:56:18 +0000"
@@ -1479,8 +1497,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-04-05 17:44:28 +0000",
       "minecraft:mountains": "2019-04-06 09:05:27 +0000",
+      "minecraft:forest": "2019-04-05 17:44:28 +0000",
       "minecraft:taiga": "2019-04-06 09:02:18 +0000",
       "minecraft:deep_cold_ocean": "2019-04-12 08:15:43 +0000",
       "minecraft:taiga_hills": "2019-04-06 09:04:45 +0000",
