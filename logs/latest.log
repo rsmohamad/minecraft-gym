@@ -1,0 +1,65 @@
+[00:44:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:44:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:44:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:44:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:44:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:44:16] [main/INFO]: Loaded 0 recipes
+[00:44:16] [main/INFO]: Loaded 0 advancements
+[00:44:16] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[00:44:16] [Server thread/INFO]: Loading properties
+[00:44:16] [Server thread/INFO]: Default game type: SURVIVAL
+[00:44:16] [Server thread/INFO]: Generating keypair
+[00:44:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:44:16] [Server thread/INFO]: Using epoll channel type
+[00:44:16] [Server thread/INFO]: Preparing level "world"
+[00:44:16] [Server thread/INFO]: Reloading ResourceManager: Default
+[00:44:17] [Server thread/INFO]: Loaded 524 recipes
+[00:44:17] [Server thread/INFO]: Loaded 571 advancements
+[00:44:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:44:18] [Server thread/INFO]: Preparing spawn area: 4%
+[00:44:18] [Server thread/INFO]: Preparing spawn area: 8%
+[00:44:18] [Server thread/INFO]: Preparing spawn area: 12%
+[00:44:18] [Server thread/INFO]: Preparing spawn area: 16%
+[00:44:18] [Server thread/INFO]: Preparing spawn area: 20%
+[00:44:18] [Server thread/INFO]: Preparing spawn area: 24%
+[00:44:18] [Server thread/INFO]: Preparing spawn area: 28%
+[00:44:18] [Server thread/INFO]: Preparing spawn area: 32%
+[00:44:18] [Server thread/INFO]: Preparing spawn area: 36%
+[00:44:19] [Server thread/INFO]: Preparing spawn area: 40%
+[00:44:19] [Server thread/INFO]: Preparing spawn area: 44%
+[00:44:19] [Server thread/INFO]: Preparing spawn area: 48%
+[00:44:19] [Server thread/INFO]: Preparing spawn area: 52%
+[00:44:19] [Server thread/INFO]: Preparing spawn area: 56%
+[00:44:19] [Server thread/INFO]: Preparing spawn area: 60%
+[00:44:19] [Server thread/INFO]: Preparing spawn area: 64%
+[00:44:19] [Server thread/INFO]: Preparing spawn area: 68%
+[00:44:19] [Server thread/INFO]: Preparing spawn area: 72%
+[00:44:19] [Server thread/INFO]: Preparing spawn area: 76%
+[00:44:19] [Server thread/INFO]: Preparing spawn area: 80%
+[00:44:19] [Server thread/INFO]: Preparing spawn area: 84%
+[00:44:19] [Server thread/INFO]: Preparing spawn area: 88%
+[00:44:19] [Server thread/INFO]: Preparing spawn area: 92%
+[00:44:20] [Server thread/INFO]: Preparing spawn area: 96%
+[00:44:20] [Server thread/INFO]: Preparing spawn area: 100%
+[00:44:20] [Server thread/INFO]: Time elapsed: 2178 ms
+[00:44:20] [Server thread/INFO]: Done (3.373s)! For help, type "help"
+[00:44:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[00:45:25] [User Authenticator #1/INFO]: UUID of player d3lf1 is 1f8acec0-772c-4544-84ad-4104723466ce
+[00:45:25] [Server thread/INFO]: d3lf1[/175.159.122.39:39093] logged in with entity id 892 at (11.261573457282314, 64.0, 169.74358368063773)
+[00:45:25] [Server thread/INFO]: d3lf1 joined the game
+[00:45:44] [Server thread/INFO]: d3lf1 lost connection: Timed out
+[00:45:44] [Server thread/INFO]: d3lf1 left the game
+[00:49:30] [User Authenticator #2/INFO]: UUID of player d3lf1 is 1f8acec0-772c-4544-84ad-4104723466ce
+[00:49:30] [Server thread/INFO]: d3lf1[/175.159.122.39:5634] logged in with entity id 981 at (11.261573457282314, 64.0, 169.74358368063773)
+[00:49:30] [Server thread/INFO]: d3lf1 joined the game
+[00:49:46] [Server thread/INFO]: d3lf1 lost connection: Timed out
+[00:49:46] [Server thread/INFO]: d3lf1 left the game
+[00:49:59] [User Authenticator #3/INFO]: UUID of player d3lf1 is 1f8acec0-772c-4544-84ad-4104723466ce
+[00:49:59] [Server thread/INFO]: d3lf1[/175.159.122.39:35609] logged in with entity id 1069 at (11.261573457282314, 64.0, 169.74358368063773)
+[00:49:59] [Server thread/INFO]: d3lf1 joined the game
+[00:50:14] [Server thread/INFO]: d3lf1 lost connection: Timed out
+[00:50:14] [Server thread/INFO]: d3lf1 left the game
+[00:54:26] [Server Shutdown Thread/INFO]: Stopping server
+[00:54:26] [Server Shutdown Thread/INFO]: Saving players
+[00:54:26] [Server Shutdown Thread/INFO]: Saving worlds
+[00:54:26] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
