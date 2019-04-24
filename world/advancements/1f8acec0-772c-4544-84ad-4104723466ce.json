@@ -557,6 +557,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2019-04-24 16:16:25 +0800",
       "minecraft:chicken": "2019-04-18 19:22:12 +0800"
     },
     "done": false
@@ -768,6 +769,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2019-04-06 16:44:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2019-04-24 16:21:08 +0800"
     },
     "done": true
   },
