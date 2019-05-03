@@ -1,54 +1,47 @@
-[16:04:15] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:04:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:04:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:04:15] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:04:15] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:04:15] [Server thread/INFO]: Starting minecraft server version 1.14
-[16:04:15] [Server thread/INFO]: Loading properties
-[16:04:15] [Server thread/INFO]: Default game type: SURVIVAL
-[16:04:15] [Server thread/INFO]: Generating keypair
-[16:04:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:04:15] [Server thread/INFO]: Using epoll channel type
-[16:04:16] [Server thread/INFO]: Preparing level "world"
-[16:04:16] [Server thread/INFO]: Reloading ResourceManager: Default
-[16:04:18] [Server thread/INFO]: Loaded 6 recipes
-[16:04:20] [Server thread/INFO]: Loaded 811 advancements
-[16:05:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:05:11] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[16:05:11] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[16:05:12] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[16:05:12] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[16:05:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[16:05:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[16:05:16] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[16:05:16] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[16:05:16] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[16:05:16] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[16:05:16] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[16:05:16] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[16:05:17] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[16:05:17] [Server-Worker-2/INFO]: Preparing spawn area: 4%
-[16:05:18] [Server-Worker-2/INFO]: Preparing spawn area: 4%
-[16:05:18] [Server-Worker-2/INFO]: Preparing spawn area: 4%
-[16:05:19] [Server-Worker-2/INFO]: Preparing spawn area: 4%
-[16:05:19] [Server-Worker-2/INFO]: Preparing spawn area: 4%
-[16:05:20] [Server-Worker-2/INFO]: Preparing spawn area: 4%
-[16:05:20] [Server-Worker-2/INFO]: Preparing spawn area: 4%
-[16:05:21] [Server-Worker-2/INFO]: Preparing spawn area: 4%
-[16:05:21] [Server-Worker-2/INFO]: Preparing spawn area: 9%
-[16:05:22] [Server-Worker-2/INFO]: Preparing spawn area: 9%
-[16:05:22] [Server-Worker-2/INFO]: Preparing spawn area: 53%
-[16:05:23] [Server-Worker-2/INFO]: Preparing spawn area: 72%
-[16:05:23] [Server-Worker-2/INFO]: Preparing spawn area: 79%
-[16:05:24] [Server-Worker-2/INFO]: Preparing spawn area: 80%
-[16:05:25] [Server-Worker-2/INFO]: Preparing spawn area: 100%
-[16:05:26] [Server-Worker-2/INFO]: Preparing spawn area: 100%
-[16:05:26] [Server-Worker-2/INFO]: Preparing spawn area: 100%
-[16:05:26] [Server-Worker-2/INFO]: Preparing spawn area: 100%
-[16:05:26] [Server thread/INFO]: Time elapsed: 15541 ms
-[16:05:26] [Server thread/INFO]: Done (70.773s)! For help, type "help"
-[16:05:43] [User Authenticator #1/INFO]: UUID of player d3lf1 is 1f8acec0-772c-4544-84ad-4104723466ce
-[16:05:44] [Server thread/INFO]: d3lf1[/175.159.122.39:58047] logged in with entity id 782 at (6.515545404162413, 63.0, 162.49292587862155)
-[16:05:44] [Server thread/INFO]: d3lf1 joined the game
-[16:29:08] [Server thread/INFO]: d3lf1 lost connection: Disconnected
-[16:29:08] [Server thread/INFO]: d3lf1 left the game
+[09:38:44] [User Authenticator #26/INFO]: UUID of player DaQuackstah is cedd10f2-e34f-43b5-954c-280a57871450
+[09:38:44] [Server thread/INFO]: DaQuackstah[/175.159.124.94:28232] logged in with entity id 25362 at (56.94260941261111, 67.0, 111.7912463558371)
+[09:38:44] [Server thread/INFO]: DaQuackstah joined the game
+[09:39:07] [Server thread/INFO]: DaQuackstah lost connection: Timed out
+[09:39:07] [Server thread/INFO]: DaQuackstah left the game
+[09:41:00] [User Authenticator #27/INFO]: UUID of player H0ngseo is 0c4e7bc5-f9e2-4737-8831-5fe91b11d19a
+[09:41:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/sign' in progress file ./world/advancements/0c4e7bc5-f9e2-4737-8831-5fe91b11d19a.json - it doesn't exist anymore?
+[09:41:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/pink_dye_from_red_bonemeal' in progress file ./world/advancements/0c4e7bc5-f9e2-4737-8831-5fe91b11d19a.json - it doesn't exist anymore?
+[09:41:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal' in progress file ./world/advancements/0c4e7bc5-f9e2-4737-8831-5fe91b11d19a.json - it doesn't exist anymore?
+[09:41:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal' in progress file ./world/advancements/0c4e7bc5-f9e2-4737-8831-5fe91b11d19a.json - it doesn't exist anymore?
+[09:41:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal' in progress file ./world/advancements/0c4e7bc5-f9e2-4737-8831-5fe91b11d19a.json - it doesn't exist anymore?
+[09:41:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal' in progress file ./world/advancements/0c4e7bc5-f9e2-4737-8831-5fe91b11d19a.json - it doesn't exist anymore?
+[09:41:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_red_pink' in progress file ./world/advancements/0c4e7bc5-f9e2-4737-8831-5fe91b11d19a.json - it doesn't exist anymore?
+[09:41:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_red_pink removed now.
+[09:41:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_ink_bonemeal removed now.
+[09:41:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_gray_bonemeal removed now.
+[09:41:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_dye_from_lapis_bonemeal removed now.
+[09:41:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sign removed now.
+[09:41:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_dye_from_red_bonemeal removed now.
+[09:41:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_ink_bonemeal removed now.
+[09:41:00] [Server thread/INFO]: H0ngseo[/175.159.124.210:39697] logged in with entity id 25384 at (54.48761351186687, 64.0, 105.59910461384169)
+[09:41:00] [Server thread/INFO]: H0ngseo joined the game
+[09:46:07] [Server thread/INFO]: H0ngseo lost connection: Disconnected
+[09:46:07] [Server thread/INFO]: H0ngseo left the game
+[19:42:25] [User Authenticator #28/INFO]: UUID of player missingnose is d6c1db40-d0d7-4c45-8ab6-d1d1b0019486
+[19:42:25] [Server thread/INFO]: missingnose[/175.159.122.33:9081] logged in with entity id 25527 at (46.41981910434633, 68.0, 94.07499998807907)
+[19:42:25] [Server thread/INFO]: missingnose joined the game
+[19:42:32] [Server thread/WARN]: Fetching addPacket for removed entity
+[19:43:39] [Server thread/WARN]: Adrian moved wrongly!
+[19:43:39] [Server thread/WARN]: Adrian moved wrongly!
+[19:46:22] [Server thread/INFO]: missingnose lost connection: Disconnected
+[19:46:22] [Server thread/INFO]: missingnose left the game
+[19:47:19] [Server thread/INFO]: Stopping server
+[19:47:19] [Server thread/INFO]: Saving players
+[19:47:19] [Server thread/INFO]: Saving worlds
+[19:47:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:47:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:47:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:47:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:47:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:47:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:47:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:47:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:47:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:47:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:47:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:47:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
