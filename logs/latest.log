@@ -1,47 +1,22 @@
-[09:38:44] [User Authenticator #26/INFO]: UUID of player DaQuackstah is cedd10f2-e34f-43b5-954c-280a57871450
-[09:38:44] [Server thread/INFO]: DaQuackstah[/175.159.124.94:28232] logged in with entity id 25362 at (56.94260941261111, 67.0, 111.7912463558371)
-[09:38:44] [Server thread/INFO]: DaQuackstah joined the game
-[09:39:07] [Server thread/INFO]: DaQuackstah lost connection: Timed out
-[09:39:07] [Server thread/INFO]: DaQuackstah left the game
-[09:41:00] [User Authenticator #27/INFO]: UUID of player H0ngseo is 0c4e7bc5-f9e2-4737-8831-5fe91b11d19a
-[09:41:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/sign' in progress file ./world/advancements/0c4e7bc5-f9e2-4737-8831-5fe91b11d19a.json - it doesn't exist anymore?
-[09:41:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/pink_dye_from_red_bonemeal' in progress file ./world/advancements/0c4e7bc5-f9e2-4737-8831-5fe91b11d19a.json - it doesn't exist anymore?
-[09:41:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal' in progress file ./world/advancements/0c4e7bc5-f9e2-4737-8831-5fe91b11d19a.json - it doesn't exist anymore?
-[09:41:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal' in progress file ./world/advancements/0c4e7bc5-f9e2-4737-8831-5fe91b11d19a.json - it doesn't exist anymore?
-[09:41:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal' in progress file ./world/advancements/0c4e7bc5-f9e2-4737-8831-5fe91b11d19a.json - it doesn't exist anymore?
-[09:41:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal' in progress file ./world/advancements/0c4e7bc5-f9e2-4737-8831-5fe91b11d19a.json - it doesn't exist anymore?
-[09:41:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_red_pink' in progress file ./world/advancements/0c4e7bc5-f9e2-4737-8831-5fe91b11d19a.json - it doesn't exist anymore?
-[09:41:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_red_pink removed now.
-[09:41:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_ink_bonemeal removed now.
-[09:41:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_gray_bonemeal removed now.
-[09:41:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_dye_from_lapis_bonemeal removed now.
-[09:41:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sign removed now.
-[09:41:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_dye_from_red_bonemeal removed now.
-[09:41:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_ink_bonemeal removed now.
-[09:41:00] [Server thread/INFO]: H0ngseo[/175.159.124.210:39697] logged in with entity id 25384 at (54.48761351186687, 64.0, 105.59910461384169)
-[09:41:00] [Server thread/INFO]: H0ngseo joined the game
-[09:46:07] [Server thread/INFO]: H0ngseo lost connection: Disconnected
-[09:46:07] [Server thread/INFO]: H0ngseo left the game
-[19:42:25] [User Authenticator #28/INFO]: UUID of player missingnose is d6c1db40-d0d7-4c45-8ab6-d1d1b0019486
-[19:42:25] [Server thread/INFO]: missingnose[/175.159.122.33:9081] logged in with entity id 25527 at (46.41981910434633, 68.0, 94.07499998807907)
-[19:42:25] [Server thread/INFO]: missingnose joined the game
-[19:42:32] [Server thread/WARN]: Fetching addPacket for removed entity
-[19:43:39] [Server thread/WARN]: Adrian moved wrongly!
-[19:43:39] [Server thread/WARN]: Adrian moved wrongly!
-[19:46:22] [Server thread/INFO]: missingnose lost connection: Disconnected
-[19:46:22] [Server thread/INFO]: missingnose left the game
-[19:47:19] [Server thread/INFO]: Stopping server
-[19:47:19] [Server thread/INFO]: Saving players
-[19:47:19] [Server thread/INFO]: Saving worlds
-[19:47:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[19:47:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:47:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[19:47:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:47:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[19:47:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:47:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:47:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:47:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:47:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:47:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:47:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:00:01] [Server thread/INFO]: <dokdo29> melost
+[00:00:37] [Server thread/INFO]: AnyNaMmers lost connection: Disconnected
+[00:00:37] [Server thread/INFO]: AnyNaMmers left the game
+[00:08:57] [Server thread/INFO]: dokdo29 lost connection: Disconnected
+[00:08:57] [Server thread/INFO]: dokdo29 left the game
+[21:11:11] [Server thread/INFO]: There are 0 of a max 10 players online: 
+[21:11:15] [Server thread/INFO]: Stopping the server
+[21:11:15] [Server thread/INFO]: Stopping server
+[21:11:16] [Server thread/INFO]: Saving players
+[21:11:16] [Server thread/INFO]: Saving worlds
+[21:11:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:11:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:11:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:11:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:11:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:11:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:11:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:11:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:11:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:11:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:11:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:11:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
